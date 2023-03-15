@@ -1,3 +1,3 @@
 # OpenParty
 
-Wir sind eine Partei, die sich so organisiert wie es open-source Projekte.
+Wir sind eine Partei, die sich so organisiert wie ein open-source Projekte.
